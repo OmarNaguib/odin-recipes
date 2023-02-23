@@ -1,0 +1,20 @@
+body {
+background-color: rgb(243, 243, 142);
+font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+background-color: rgb(217, 219, 108);
+color: rgb(122, 95, 44);
+}
+
+.list{
+    background-color: rgb(192, 148, 52);
+    font-size: 24px;
+    color: brown;
+}
+
+a {
+    color: rgb(234, 255, 40);
+    font-weight: bold;
+}
